@@ -1,6 +1,6 @@
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,androidstudio,git,github,linux,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,androidstudio,hacker,git,github,linux,pycharm,vscode" />
 </p>
 
 
@@ -23,4 +23,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
+
+![Snake animation](https://github.com/takbirahmed09/takbirahmed09/blob/output/github-contribution-grid-snake.svg)
+
 
